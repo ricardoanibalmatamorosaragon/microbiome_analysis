@@ -1,0 +1,70 @@
+sciname,seqnumber,total_sample,sample_with,len_sample_with
+Anaerostipes hadrus,"seq 184, seq 257",40,"{0, 1, 2, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39}",36
+Bacteroides vulgatus,"seq 146, seq 327, seq 336, seq 357",40,"{0, 2, 4, 5, 6, 7, 8, 9, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 31, 32, 33, 34, 35, 36, 37, 39}",32
+Romboutsia sp. CE17,"seq 78, seq 166",40,"{1, 3, 4, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 24, 25, 27, 28, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39}",30
+Odoribacter splanchnicus,"seq 310, seq 355",40,"{0, 2, 4, 5, 6, 7, 8, 9, 11, 12, 13, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 27, 28, 29, 32, 33, 35, 36, 37, 39}",30
+Collinsella aerofaciens,"seq 142, seq 169",40,"{0, 2, 4, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 27, 28, 29, 30, 31, 34, 35, 36, 37, 39}",30
+Alistipes sp. 3BBH6,"seq 87, seq 163",40,"{2, 4, 5, 6, 7, 8, 9, 11, 13, 15, 16, 17, 18, 19, 20, 22, 24, 25, 27, 28, 29, 30, 32, 33, 35, 36, 37, 38, 39}",29
+Escherichia coli,"seq 130, seq 133, seq 171, seq 193, seq 259, seq 287, seq 289, seq 318, seq 370, seq 398, seq 539, seq 553, seq 555, seq 558",40,"{0, 1, 3, 4, 5, 6, 7, 9, 10, 13, 14, 15, 17, 18, 19, 21, 23, 24, 25, 26, 28, 29, 32, 33, 34, 35, 36, 38, 39}",29
+Dysosmobacter welbionis,"seq 331, seq 381",40,"{0, 4, 5, 7, 8, 9, 11, 12, 13, 16, 19, 20, 21, 22, 25, 26, 27, 29, 30, 32, 33, 35, 36, 37, 38}",25
+Faecalibacterium prausnitzii A2-165,"seq 223, seq 285, seq 333, seq 578",40,"{0, 1, 4, 5, 9, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 33, 34, 38, 39}",25
+Parabacteroides distasonis,"seq 94, seq 312, seq 584",40,"{1, 4, 5, 8, 10, 11, 12, 13, 18, 20, 21, 22, 23, 25, 27, 28, 29, 30, 33, 34, 35, 36, 37, 39}",24
+Faecalibacterium prausnitzii,"seq 115, seq 417",40,"{1, 4, 5, 8, 9, 11, 13, 16, 20, 22, 25, 28, 29, 30, 31, 32, 33, 35, 36, 37, 38, 39}",22
+Bifidobacterium longum,"seq 70, seq 541",40,"{0, 2, 4, 5, 6, 9, 12, 14, 15, 16, 17, 18, 19, 21, 23, 24, 27, 28, 34, 39}",20
+Alistipes sp. 5CBH24,seq 418,40,"{0, 3, 4, 5, 6, 7, 12, 13, 15, 16, 17, 18, 19, 21, 23, 24, 26, 27, 28}",19
+Bacteroides uniformis,seq 237,40,"{0, 2, 34, 4, 5, 6, 39, 9, 13, 16, 17, 18, 19, 21, 23, 27, 28}",17
+Akkermansia muciniphila,"seq 151, seq 380",40,"{0, 34, 3, 4, 36, 37, 7, 39, 9, 8, 13, 14, 17, 19, 21, 26, 30}",17
+Streptococcus salivarius,seq 379,40,"{0, 2, 3, 4, 5, 34, 7, 39, 9, 12, 14, 15, 17, 18, 21, 26, 27}",17
+Bacteroides ovatus,seq 75,40,"{32, 1, 33, 35, 36, 37, 38, 8, 9, 11, 20, 22, 25, 29, 30, 31}",16
+Bacteroides sartorii,"seq 89, seq 173",40,"{0, 32, 34, 1, 4, 39, 13, 17, 19, 20, 24, 25, 27, 28, 29, 30}",16
+Flavonifractor plautii,seq 340,40,"{0, 2, 34, 4, 5, 7, 39, 9, 12, 13, 15, 16, 21, 24, 26, 27}",16
+Acidaminococcus intestini,"seq 236, seq 250",40,"{0, 2, 34, 36, 5, 37, 8, 9, 11, 12, 13, 22, 25, 27, 30}",15
+Bacteroides thetaiotaomicron,seq 124,40,"{32, 1, 33, 35, 36, 37, 38, 8, 11, 20, 22, 25, 29, 30, 31}",15
+Longibaculum sp. KGMB06250,seq 74,40,"{32, 1, 33, 35, 36, 37, 38, 8, 10, 11, 20, 22, 25, 29, 31}",15
+Blautia sp. SC05B48,seq 81,40,"{32, 1, 33, 35, 36, 37, 8, 10, 11, 20, 22, 25, 29, 30, 31}",15
+Roseburia intestinalis L1-82,seq 153,40,"{0, 4, 7, 39, 12, 14, 16, 17, 19, 23, 24, 26, 27, 28}",14
+Haemophilus parainfluenzae,seq 202,40,"{0, 3, 4, 5, 6, 7, 9, 12, 13, 15, 18, 21, 24, 28}",14
+Lactococcus taiwanensis,"seq 217, seq 267",40,"{32, 0, 34, 4, 37, 39, 10, 13, 14, 16, 20, 26, 28}",13
+Escherichia sp. E4742,seq 424,40,"{0, 5, 7, 9, 14, 15, 18, 19, 23, 24, 26, 28}",12
+Citrobacter freundii,"seq 77, seq 219, seq 412",40,"{32, 33, 35, 38, 10, 14, 17, 19, 25, 26, 28, 29}",12
+Phascolarctobacterium faecium,seq 103,40,"{32, 33, 36, 37, 8, 11, 20, 22, 25, 29, 31}",11
+Escherichia fergusonii,seq 561,40,"{0, 3, 5, 7, 13, 14, 19, 23, 24, 26, 28}",11
+Dialister invisus,"seq 91, seq 178",40,"{33, 34, 35, 5, 38, 14, 15, 17, 25, 26, 30}",11
+Bacteroides caccae,seq 155,40,"{32, 1, 35, 36, 37, 8, 15, 22, 25, 30}",10
+Ruminococcus gnavus ATCC 29149,seq 127,40,"{34, 4, 9, 12, 13, 14, 15, 21, 26, 27}",10
+Enterobacter ludwigii,seq 120,40,"{32, 1, 33, 3, 36, 38, 9, 25, 26, 29}",10
+Dialister sp. 5BBH33,"seq 172, seq 296",40,"{4, 5, 9, 11, 12, 18, 24, 28, 30, 31}",10
+Clostridium bolteae,seq 404,40,"{0, 4, 5, 39, 9, 13, 21, 26, 27}",9
+Bifidobacterium pseudocatenulatum,seq 397,40,"{34, 39, 9, 13, 14, 18, 21, 27}",8
+Pseudomonas fragi,seq 360,40,"{0, 5, 15, 17, 18, 23, 28}",7
+Citrobacter sp. Y3,seq 98,40,"{3, 6, 7, 18, 19, 26, 28}",7
+Klebsiella variicola,seq 556,40,"{3, 9, 14, 17, 26, 28}",6
+Bacteroides sp. A1C1,seq 409,40,"{4, 39, 7, 9, 17}",5
+Lactobacillus paracasei,seq 320,40,"{0, 34, 13, 14, 15}",5
+Staphylococcus aureus,seq 194,40,"{32, 35, 37, 10, 22}",5
+Lactobacillus plantarum,seq 565,40,"{4, 13, 14, 16, 21}",5
+Bacteroides fragilis,seq 387,40,"{33, 35, 8, 29, 30}",5
+Lactobacillus brevis,seq 307,40,"{28, 4, 13, 14}",4
+Bacteroides stercoris,"seq 284, seq 571",40,"{16, 9, 20, 13}",4
+Megasphaera elsdenii,seq 266,40,"{13, 28, 12, 5}",4
+Megamonas funiformis,"seq 255, seq 346",40,"{34, 4, 12, 13}",4
+Pseudomonas aeruginosa,seq 396,40,"{19, 5, 6, 15}",4
+Pseudomonas psychrophila,seq 161,40,"{8, 33, 29, 38}",4
+Penicillium roqueforti,seq 238,40,"{32, 33, 35}",3
+Bifidobacterium bifidum,seq 279,40,"{1, 10}",2
+Streptococcus gallolyticus,seq 233,40,"{32, 10}",2
+Delftia lacustris,seq 212,40,"{18, 7}",2
+Pseudomonas sp.,"seq 363, seq 447",40,"{18, 7}",2
+Paraprevotella xylaniphila YIT 11841,seq 112,40,"{37, 22}",2
+Raoultella ornithinolytica,"seq 433, seq 537, seq 567",40,{14},1
+Pseudomonas putida,seq 229,40,{7},1
+Sphingobacterium sp.,seq 378,40,{7},1
+Rhizobium sp.,seq 375,40,{18},1
+Staphylococcus haemolyticus,seq 323,40,{10},1
+Flavobacterium johnsoniae,seq 317,40,{18},1
+Achromobacter sp.,seq 314,40,{18},1
+Bacillus megaterium,seq 294,40,{8},1
+Morganella morganii,"seq 72, seq 451",40,{26},1
+Brevundimonas diminuta,seq 167,40,{18},1
+Fusobacterium mortiferum ATCC 9817,seq 105,40,{12},1
+Citrobacter koseri,seq 577,40,{26},1

@@ -1,256 +1,393 @@
-seqid	accession	identity	evalue	sciname	taxids	taxonomy
-ERR1160658.8	MT416388.1	100.0	1.1100000000000001e-57	Escherichia coli	562	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-ERR1160658.2	LR797773.1	100.0	1.1100000000000001e-57	Enterobacter ludwigii	299767	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter ludwigii
-ERR2696499.1	CP053042.1	100.0	1.7899999999999994e-71	Proteus cibarius	626774	Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus cibarius
-ERR2405131.484	LC528171.1	100.0	1.7899999999999994e-71	Akkermansia muciniphila	239935	Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Akkermansiaceae;Akkermansia;Akkermansia muciniphila
-ERR1079964.43	MT416449.1	100.0	1.7899999999999994e-71	Escherichia coli	562	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-ERR1079964.14	MT464394.1	100.0	1.7899999999999994e-71	Bacteroides dorei	357276	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides dorei
-ERR1080303.384	LC515634.1	100.0	1.7899999999999994e-71	Bacteroides stercoris	46506	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides stercoris
-ERR1458766.2011	MT416449.1	100.0	6.369999999999999e-71	Escherichia coli	562	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-ERR1080303.83	MT515977.1	100.0	1.7899999999999994e-71	Bacteroides vulgatus	821	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides vulgatus
-ERR1080303.3069	MN474966.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.9113	MT268985.1	100.0	1.7899999999999994e-71	Bacteroides fragilis	817	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides fragilis
-ERR1079964.38	MT268988.1	100.0	1.7899999999999994e-71	Bacteroides uniformis	820	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides uniformis
-ERR1160658.10	CP053042.1	100.0	1.1100000000000001e-57	Proteus cibarius	626774	Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus cibarius
-ERR1079964.360	LR654642.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.16	MT516160.1	100.0	1.1100000000000001e-57	Enterococcus faecium	1352	Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus faecium
-ERR1079964.4	CP048437.1	100.0	1.7899999999999994e-71	Faecalibacterium prausnitzii A2-165	411483	Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii
-ERR1080303.1030	MN326670.1	100.0	1.7899999999999994e-71	Bacteroides caccae	47678	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides caccae
-ERR1079964.16	MT268987.1	100.0	1.7899999999999994e-71	Bacteroides ovatus	28116	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides ovatus
-ERR1079964.17	LR699017.1	100.0	1.7899999999999994e-71	Faecalibacterium prausnitzii	853	Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii
-ERR1080303.576	MN081733.1	100.0	1.7899999999999994e-71	Bacteroides sartorii	671267	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides sartorii
-ERR1079964.126	MT464345.1	100.0	1.7899999999999994e-71	Bacteroides thetaiotaomicron	818	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides thetaiotaomicron
-ERR1080303.6	MT509819.1	100.0	1.7899999999999994e-71	Dialister invisus	218538	Firmicutes;Negativicutes;Veillonellales;Veillonellaceae;Dialister;Dialister invisus
-ERR1160658.127	MT421943.1	100.0	1.1100000000000001e-57	Citrobacter freundii	546	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter;Citrobacter freundii
-ERR1079964.472	MT445090.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.1096	MT491082.1	100.0	1.7899999999999994e-71	Bifidobacterium longum	216816	Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium longum
-ERR1079964.188	MN474722.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.20	MT516164.1	100.0	1.1100000000000001e-57	Streptococcus salivarius	1304	Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus salivarius
-ERR1458766.9	CP048437.1	100.0	6.369999999999999e-71	Faecalibacterium prausnitzii A2-165	411483	Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii
-ERR1458766.137	LR654642.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.50	MT464394.1	100.0	6.369999999999999e-71	Bacteroides dorei	357276	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides dorei
-ERR1160658.81	CP032167.1	100.0	1.1100000000000001e-57	Klebsiella pneumoniae	573	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella;Klebsiella pneumoniae
-ERR1160658.1	MH222252.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.6	LR636945.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.184	LR650316.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2405131.61	CP014670.1	100.0	1.7899999999999994e-71	Escherichia coli	562	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-ERR1079964.1338	MN212477.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.105	KX996786.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1843602.15	MH288077.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.344	HQ791674.1	100.0	1.7899999999999994e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
-ERR2319745.10519	MN474940.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2697834.4	LR595738.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.26	LR654311.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.63	MH291619.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.10	MT421943.1	100.0	1.7899999999999994e-71	Citrobacter freundii	546	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter;Citrobacter freundii
-ERR1458766.7	MT445090.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.537	LR640650.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.105	LR651246.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.3728	MT445110.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.208	KF841716.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2405131.13	MH570136.1	100.0	1.7899999999999994e-71	uncultured Bacteroides sp.	162156	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured Bacteroides sp.
-ERR2319745.126	LR643030.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.226	MT445109.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.4617	LR699017.1	100.0	6.369999999999999e-71	Faecalibacterium prausnitzii	853	Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii
-ERR1160658.278	LR135607.1	100.0	1.1100000000000001e-57	Klebsiella michiganensis	1134687	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella;Klebsiella michiganensis
-ERR1080303.51	CP040518.1	100.0	1.7899999999999994e-71	Blautia sp. SC05B48	2479767	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia sp. SC05B48
-ERR1079964.648	MN474966.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.18	MG858628.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.558	CP051672.1	100.0	1.7899999999999994e-71	Parabacteroides distasonis	823	Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides distasonis
-ERR1458766.5385	CP051144.1	100.0	6.369999999999999e-71	Romboutsia sp. CE17	2724150	Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides distasonis
-ERR1079964.924	LR640086.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1845804.468	MN081733.1	100.0	6.369999999999999e-71	Bacteroides sartorii	671267	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides sartorii
-ERR2319745.462	LC515634.1	100.0	6.369999999999999e-71	Bacteroides stercoris	46506	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides stercoris
-ERR1079964.29	LR797773.1	100.0	1.7899999999999994e-71	Enterobacter ludwigii	299767	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter ludwigii
-ERR2696499.8	CP053042.1	100.0	6.429999999999998e-71	Proteus cibarius	626774	Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus cibarius
-ERR4019696.38	HQ790005.1	100.0	1.7899999999999994e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
-ERR2319745.2043	MK727100.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.139	MK274834.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.255	MT445121.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.1170	MN474435.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.485	MN474887.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.36	MT268988.1	100.0	6.429999999999998e-71	Bacteroides uniformis	820	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides uniformis
-ERR1841615.1284	MT445141.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.9	MT464394.1	100.0	6.429999999999998e-71	Bacteroides dorei	357276	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides dorei
-ERR2405131.2794	JQ185275.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2405131.57	MK274833.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.28	CP049223.1	100.0	6.369999999999999e-71	Lactobacillus iners	147802	Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus iners
-ERR1079964.23	EF709162.1	100.0	1.7899999999999994e-71	uncultured Bacteroidales bacterium	194843	Bacteroidetes;Bacteroidia;Bacteroidales;NaN;NaN;uncultured Bacteroidales bacterium
-ERR1160658.455	KP108905.1	100.0	1.1100000000000001e-57	uncultured Oribacterium sp.	462198	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Oribacterium;uncultured Oribacterium sp.
-ERR1458766.1148	MH761663.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1845804.6980	MT516170.1	99.333	2.96e-69	Escherichia fergusonii	564	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia fergusonii
-ERR1843602.34	MT516130.1	100.0	6.369999999999999e-71	Lactobacillus ruminis	1623	Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus ruminis
-ERR1160658.199	KX994305.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2405131.1523	MH761572.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.3701	LR654724.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2696499.90	CP053042.1	99.338	8.309999999999998e-70	Proteus cibarius	626774	Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus cibarius
-ERR1845804.1415	MN212362.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.8381	MH467656.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1841615.933	MN474266.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.38	MN215011.1	100.0	1.7899999999999994e-71	uncultured Bacteroides sp.	162156	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured Bacteroides sp.
-ERR1458766.231	MT269337.1	100.0	6.369999999999999e-71	Finegoldia magna	1260	Firmicutes;Tissierellia;Tissierellales;Peptoniphilaceae;Finegoldia;Finegoldia magna
-ERR1458766.5857	MH761330.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.34	KY672216.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.481	LR654483.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.854	MT491082.1	100.0	6.369999999999999e-71	Bifidobacterium longum	216816	Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium longum
-ERR1160658.251	MT268988.1	100.0	1.1100000000000001e-57	Bacteroides uniformis	820	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides uniformis
-ERR2319745.401	KU467712.1	100.0	2.2699999999999994e-70	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.2001	KP804558.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2405131.1737	FP076187.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1843602.25	KP105400.1	100.0	6.369999999999999e-71	uncultured Prevotella sp.	159272	Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;uncultured Prevotella sp.
-ERR1842255.10460	DQ794968.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.155	MN474769.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.54	MH569932.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.169	CP040518.1	100.0	6.369999999999999e-71	Blautia sp. SC05B48	2479767	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia sp. SC05B48
-ERR2319745.1904	KF841716.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1843602.84	KY285433.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.1048	MT472101.1	100.0	1.1100000000000001e-57	Pseudomonas syringae pv. actinidiae	103796	Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas syringae
-ERR1458766.68	MT268987.1	100.0	6.369999999999999e-71	Bacteroides ovatus	28116	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides ovatus
-ERR1458766.418	MH761645.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.160	KF843249.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1845804.8414	MT416445.1	100.0	6.369999999999999e-71	Staphylococcus aureus	1280	Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus
-ERR2319745.637	KC304281.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.4571	DQ806879.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.162	MH291619.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1841615.86	JN612466.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.1103	MH570035.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.140	MF365666.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.363	LC489059.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1842255.18	MH291422.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.640	MF081592.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.480	HQ791752.1	100.0	1.7899999999999994e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
-ERR1080303.28	KC304723.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.1749	KX654258.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2696499.156	MT268985.1	100.0	6.429999999999998e-71	Bacteroides fragilis	817	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides fragilis
-ERR1080303.379	CP051144.1	100.0	1.7899999999999994e-71	Romboutsia sp. CE17	2724150	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides fragilis
-ERR2319745.3848	KF229951.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.5497	MF365015.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.2192	MG702800.1	100.0	1.7899999999999994e-71	uncultured Lachnospiraceae bacterium	297314	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;NaN;uncultured Lachnospiraceae bacterium
-ERR2319745.536	MH468612.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.3	MH468371.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1845804.11038	MT416449.1	99.333	2.96e-69	Escherichia coli	562	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-ERR1160658.1818	MH221941.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.1096	MT516207.1	100.0	1.1100000000000001e-57	Weissella confusa	1583	Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Weissella;Weissella confusa
-ERR1079964.1770	MT268993.1	100.0	2.2699999999999994e-70	Odoribacter splanchnicus	28118	Bacteroidetes;Bacteroidia;Bacteroidales;Odoribacteraceae;Odoribacter;Odoribacter splanchnicus
-ERR1079964.1762	MH572109.1	100.0	1.7899999999999994e-71	uncultured Lachnospiraceae bacterium	297314	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;NaN;uncultured Lachnospiraceae bacterium
-ERR2319745.1536	JN611629.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.1104	MN252008.1	99.206	5.17e-56	Serratia marcescens	615	Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia;Serratia marcescens
-ERR1079964.6055	MN474509.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1845804.7974	KY671809.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.4233	MT515977.1	100.0	6.429999999999998e-71	Bacteroides vulgatus	821	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides vulgatus
-ERR2405131.1609	HQ784797.1	100.0	1.7899999999999994e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
-ERR2319745.25426	JQ940722.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.24670	FP078720.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.182	MG702771.1	100.0	6.369999999999999e-71	uncultured Lachnospiraceae bacterium	297314	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;NaN;uncultured Lachnospiraceae bacterium
-ERR1160658.634	MN474983.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2697834.389	LR648546.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.1032	MF364912.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1843602.86	KP108951.1	100.0	6.369999999999999e-71	uncultured Prevotella sp.	159272	Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;uncultured Prevotella sp.
-ERR1458766.1102	LC528172.1	100.0	6.369999999999999e-71	Anaerostipes hadrus	649756	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes hadrus
-ERR2319745.4523	MF264046.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.905	MH761842.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.196	KX996994.1	99.206	5.17e-56	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.2	MH228452.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.678	LC268639.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.3265	KC304481.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.110	MH569932.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.3631	KJ421935.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1842255.164	KY671907.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.4293	KY049721.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.350	MK274681.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.16522	MN212492.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.2832	MN212470.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.53	LR646661.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.2367	LC356867.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.3134	HQ748899.1	100.0	1.7899999999999994e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
-ERR2319745.188	HQ787930.1	100.0	1.7899999999999994e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
-ERR1458766.43	MN212518.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.4679	MH196680.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.154	MH291839.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.626	MH222252.1	99.206	5.17e-56	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR4019696.473	FP078720.1	98.675	3.87e-68	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.652	KC304747.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.154	KF110105.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2405131.227	KX593306.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1845804.10448	HQ791598.1	100.0	6.369999999999999e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
-ERR1080303.6069	KF232424.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.1744	MN212518.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2405131.240	MT416449.1	99.338	8.309999999999998e-70	Escherichia coli	562	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
-ERR1160658.2194	CP053042.1	97.619	1.1200000000000001e-52	Proteus cibarius	626774	Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus cibarius
-ERR1079964.882	LC528172.1	100.0	1.7899999999999994e-71	Anaerostipes hadrus	649756	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes hadrus
-ERR2319745.3080	LR637623.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.1042	MH467921.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.479	FP077798.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.94	LR651281.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2405131.328	MH761181.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.424	MF364887.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1842835.181	DQ806733.1	99.333	2.96e-69	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.131	LC515606.1	100.0	6.369999999999999e-71	Acidaminococcus intestini	187327	Firmicutes;Negativicutes;Acidaminococcales;Acidaminococcaceae;Acidaminococcus;Acidaminococcus intestini
-ERR1458766.1204	CP040902.1	100.0	6.369999999999999e-71	Longibaculum sp. KGMB06250	2584943	Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Longibaculum;Longibaculum sp. KGMB06250
-ERR1079964.4288	MH761696.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.2002	MN474417.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2696499.27	CP053042.1	99.338	8.309999999999998e-70	Proteus cibarius	626774	Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus cibarius
-ERR1845804.862	MN212164.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2405131.243	KF385804.1	98.01299999999999	1.7999999999999995e-66	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.122	KR188893.1	100.0	2.2699999999999994e-70	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2304148.726	MT509550.1	100.0	1.7899999999999994e-71	Raoultella ornithinolytica	54291	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Raoultella;Raoultella ornithinolytica
-ERR1843602.7	MT510319.1	100.0	6.369999999999999e-71	Lactobacillus ruminis	1623	Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus ruminis
-ERR1080303.262	MF670802.1	100.0	1.7899999999999994e-71	uncultured Faecalibacterium sp.	259315	Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;uncultured Faecalibacterium sp.
-ERR2319745.375	LR590664.1	100.0	2.2699999999999994e-70	Methanobrevibacter smithii	2173	Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;Methanobrevibacter;Methanobrevibacter smithii
-ERR1160658.289	MH223120.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2697834.41	LR638955.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2405131.659	KY285519.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.17939	CP051672.1	100.0	6.369999999999999e-71	Parabacteroides distasonis	823	Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides distasonis
-ERR1160658.2772	MT516170.1	99.206	5.17e-56	Escherichia fergusonii	564	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia fergusonii
-ERR1160658.3129	MN252008.1	100.0	1.1100000000000001e-57	Serratia marcescens	615	Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia;Serratia marcescens
-ERR1160658.767	KP808093.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.2141	LC359100.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1841615.173	MN212492.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.4369	MN474469.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2696499.169	CP053042.1	99.338	8.309999999999998e-70	Proteus cibarius	626774	Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus cibarius
-ERR1841615.96	KF843318.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.635	LR651281.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR4019696.1254	CP051672.1	99.338	8.309999999999998e-70	Parabacteroides distasonis	823	Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides distasonis
-ERR2319745.13267	MH227048.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1843602.1031	KT926888.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.418	MT125906.1	100.0	1.1100000000000001e-57	Klebsiella pneumoniae	573	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella;Klebsiella pneumoniae
-ERR1079964.593	FJ345906.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR4019696.303	MT268985.1	98.675	3.87e-68	Bacteroides fragilis	817	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides fragilis
-ERR2405131.95	FJ369890.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1845804.7961	MF364754.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1842255.32	KU112262.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.554	MH572109.1	100.0	6.369999999999999e-71	uncultured Lachnospiraceae bacterium	297314	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;NaN;uncultured Lachnospiraceae bacterium
-ERR2405131.21	MN211895.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.33185	MN212164.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.2557	FP078221.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.1578	LC528171.1	100.0	6.429999999999998e-71	Akkermansia muciniphila	239935	Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Akkermansiaceae;Akkermansia;Akkermansia muciniphila
-ERR2314040.56	KR952335.1	100.0	1.7899999999999994e-71	Penicillium roqueforti	5082	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium;Penicillium roqueforti
-ERR1845804.4857	MH462403.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.1749	MH291865.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.531	KX971281.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.344	MT445109.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.4084	MN474179.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.1113	KY878431.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.7	CP048437.1	100.0	6.429999999999998e-71	Faecalibacterium prausnitzii A2-165	411483	Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii
-ERR2319745.9193	KC303773.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.19798	KY049721.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.675	MT516160.1	99.206	5.17e-56	Enterococcus faecium	1352	Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus faecium
-ERR1079964.4968	KY048547.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.7837	FP078832.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1845804.3073	MT275475.1	100.0	6.369999999999999e-71	Erysipelatoclostridium ramosum	1547	Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;Erysipelatoclostridium ramosum
-ERR1160658.376	KY301664.1	99.206	5.17e-56	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1842255.11526	JQ940872.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1079964.2821	JN612120.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2319745.31363	MT509819.1	100.0	6.369999999999999e-71	Dialister invisus	218538	Firmicutes;Negativicutes;Veillonellales;Veillonellaceae;Dialister;Dialister invisus
-ERR1842835.339	MK274834.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.1914	MH228452.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.819	LR647866.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1458766.3609	MH291839.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.4286	CP050831.1	99.338	8.309999999999998e-70	Bacteroides sp. CBA7301	2715212	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1080303.232	HQ816221.1	100.0	1.7899999999999994e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
-ERR2696499.590	CP053042.1	99.338	8.309999999999998e-70	Proteus cibarius	626774	Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus cibarius
-ERR2319745.9209	KU152706.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR2405131.2216	HQ814424.1	98.01299999999999	1.7999999999999995e-66	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
-ERR1845804.635	HQ766939.1	100.0	6.369999999999999e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
-ERR1842255.2111	KT924959.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
-ERR1160658.970	MK727100.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+header	seqid	accession	identity	evalue	sciname	taxids	taxonomy
+>ERR1160658.8 10317.000032795_7 length=126 number of reps 40177	ERR1160658.8	MT416388.1	100.0	1.1100000000000001e-57	Escherichia coli	562	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
+>ERR1160658.2 10317.000032795_1 length=126 number of reps 31764	ERR1160658.2	LR797773.1	100.0	1.1100000000000001e-57	Enterobacter ludwigii	299767	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter ludwigii
+>ERR2696499.1 10317.000076358_0 length=151 number of reps 27051	ERR2696499.1	CP053042.1	100.0	1.7899999999999994e-71	Proteus cibarius	626774	Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus cibarius
+>ERR2405131.484 10317.000082870_483 length=151 number of reps 21701	ERR2405131.484	LC528171.1	100.0	1.7899999999999994e-71	Akkermansia muciniphila	239935	Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Akkermansiaceae;Akkermansia;Akkermansia muciniphila
+>ERR1079964.43 10317.000013105_42 length=151 number of reps 20738	ERR1079964.43	MT416449.1	100.0	1.7899999999999994e-71	Escherichia coli	562	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
+>ERR1079964.14 10317.000013105_13 length=151 number of reps 14807	ERR1079964.14	MT464394.1	100.0	1.7899999999999994e-71	Bacteroides dorei	357276	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides dorei
+>ERR1080303.384 10317.000021280_383 length=151 number of reps 12373	ERR1080303.384	LC515634.1	100.0	1.7899999999999994e-71	Bacteroides stercoris	46506	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides stercoris
+>ERR1458766.2011 10317.000028806_2010 length=150 number of reps 11438	ERR1458766.2011	MT416449.1	100.0	6.369999999999999e-71	Escherichia coli	562	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
+>ERR1080303.83 10317.000021280_82 length=151 number of reps 9677	ERR1080303.83	MT515977.1	100.0	1.7899999999999994e-71	Bacteroides vulgatus	821	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides vulgatus
+>ERR1080303.3069 10317.000021280_3068 length=150 number of reps 7687	ERR1080303.3069	MN474966.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.9113 10317.000050475_9112 length=151 number of reps 6582	ERR2319745.9113	MT268985.1	100.0	1.7899999999999994e-71	Bacteroides fragilis	817	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides fragilis
+>ERR1079964.38 10317.000013105_37 length=151 number of reps 5969	ERR1079964.38	MT268988.1	100.0	1.7899999999999994e-71	Bacteroides uniformis	820	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides uniformis
+>ERR1160658.10 10317.000032795_9 length=126 number of reps 4598	ERR1160658.10	CP053042.1	100.0	1.1100000000000001e-57	Proteus cibarius	626774	Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus cibarius
+>ERR1079964.360 10317.000013105_359 length=151 number of reps 4540	ERR1079964.360	LR654642.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.16 10317.000032795_15 length=126 number of reps 4479	ERR1160658.16	MT516160.1	100.0	1.1100000000000001e-57	Enterococcus faecium	1352	Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus faecium
+>ERR1079964.4 10317.000013105_3 length=151 number of reps 3933	ERR1079964.4	CP048437.1	100.0	1.7899999999999994e-71	Faecalibacterium prausnitzii A2-165	411483	Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii
+>ERR1080303.1030 10317.000021280_1029 length=151 number of reps 3837	ERR1080303.1030	MN326670.1	100.0	1.7899999999999994e-71	Bacteroides caccae	47678	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides caccae
+>ERR1079964.16 10317.000013105_15 length=151 number of reps 3568	ERR1079964.16	MT268987.1	100.0	1.7899999999999994e-71	Bacteroides ovatus	28116	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides ovatus
+>ERR1079964.17 10317.000013105_16 length=151 number of reps 3522	ERR1079964.17	LR699017.1	100.0	1.7899999999999994e-71	Faecalibacterium prausnitzii	853	Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii
+>ERR1080303.576 10317.000021280_575 length=151 number of reps 3420	ERR1080303.576	MN081733.1	100.0	1.7899999999999994e-71	Bacteroides sartorii	671267	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides sartorii
+>ERR1079964.126 10317.000013105_125 length=151 number of reps 3343	ERR1079964.126	MT464345.1	100.0	1.7899999999999994e-71	Bacteroides thetaiotaomicron	818	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides thetaiotaomicron
+>ERR1080303.6 10317.000021280_5 length=151 number of reps 3311	ERR1080303.6	MT509819.1	100.0	1.7899999999999994e-71	Dialister invisus	218538	Firmicutes;Negativicutes;Veillonellales;Veillonellaceae;Dialister;Dialister invisus
+>ERR1160658.127 10317.000032795_126 length=126 number of reps 2955	ERR1160658.127	MT421943.1	100.0	1.1100000000000001e-57	Citrobacter freundii	546	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter;Citrobacter freundii
+>ERR1079964.472 10317.000013105_471 length=151 number of reps 2807	ERR1079964.472	MT445090.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.1096 10317.000021280_1095 length=151 number of reps 2604	ERR1080303.1096	MT491082.1	100.0	1.7899999999999994e-71	Bifidobacterium longum	216816	Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium longum
+>ERR1079964.188 10317.000013105_187 length=151 number of reps 2590	ERR1079964.188	MN474722.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.20 10317.000032795_19 length=126 number of reps 2555	ERR1160658.20	MT516164.1	100.0	1.1100000000000001e-57	Streptococcus salivarius	1304	Firmicutes;Bacilli;Lactobacillales;Streptococcaceae;Streptococcus;Streptococcus salivarius
+>ERR1458766.9 10317.000028806_8 length=150 number of reps 2550	ERR1458766.9	CP048437.1	100.0	6.369999999999999e-71	Faecalibacterium prausnitzii A2-165	411483	Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii
+>ERR1458766.137 10317.000028806_136 length=150 number of reps 2493	ERR1458766.137	LR654642.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.50 10317.000028806_49 length=150 number of reps 2396	ERR1458766.50	MT464394.1	100.0	6.369999999999999e-71	Bacteroides dorei	357276	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides dorei
+>ERR1160658.81 10317.000032795_80 length=126 number of reps 2328	ERR1160658.81	CP032167.1	100.0	1.1100000000000001e-57	Klebsiella pneumoniae	573	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella;Klebsiella pneumoniae
+>ERR1160658.1 10317.000032795_0 length=126 number of reps 2317	ERR1160658.1	MH222252.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.6 10317.000050475_5 length=151 number of reps 2310	ERR2319745.6	LR636945.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.184 10317.000050475_183 length=151 number of reps 2252	ERR2319745.184	LR650316.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2405131.61 10317.000082870_60 length=151 number of reps 2214	ERR2405131.61	CP014670.1	100.0	1.7899999999999994e-71	Escherichia coli	562	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
+>ERR1079964.1338 10317.000013105_1337 length=151 number of reps 2203	ERR1079964.1338	MN212477.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.105 10317.000032795_104 length=126 number of reps 2132	ERR1160658.105	KX996786.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1843602.15 10317.000040396_14 length=150 number of reps 2043	ERR1843602.15	MH288077.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.344 10317.000021280_343 length=151 number of reps 1954	ERR1080303.344	HQ791674.1	100.0	1.7899999999999994e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
+>ERR2319745.10519 10317.000050475_10518 length=151 number of reps 1953	ERR2319745.10519	MN474940.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2697834.4 10317.000097233_3 length=151 number of reps 1927	ERR2697834.4	LR595738.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.26 10317.000050475_25 length=151 number of reps 1909	ERR2319745.26	LR654311.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.63 10317.000013105_62 length=151 number of reps 1847	ERR1079964.63	MH291619.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.10 10317.000013105_9 length=151 number of reps 1746	ERR1079964.10	MT421943.1	100.0	1.7899999999999994e-71	Citrobacter freundii	546	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Citrobacter;Citrobacter freundii
+>ERR1458766.7 10317.000028806_6 length=150 number of reps 1665	ERR1458766.7	MT445090.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.537 10317.000013105_536 length=151 number of reps 1635	ERR1079964.537	LR640650.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.105 10317.000021280_104 length=151 number of reps 1574	ERR1080303.105	LR651246.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.3728 10317.000021280_3727 length=151 number of reps 1523	ERR1080303.3728	MT445110.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.208 10317.000050475_207 length=151 number of reps 1460	ERR2319745.208	KF841716.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2405131.13 10317.000082870_12 length=151 number of reps 1440	ERR2405131.13	MH570136.1	100.0	1.7899999999999994e-71	uncultured Bacteroides sp.	162156	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured Bacteroides sp.
+>ERR2319745.126 10317.000050475_125 length=151 number of reps 1436	ERR2319745.126	LR643030.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.226 10317.000013105_225 length=151 number of reps 1369	ERR1079964.226	MT445109.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.4617 10317.000013105_4616 length=150 number of reps 1359	ERR1079964.4617	LR699017.1	100.0	6.369999999999999e-71	Faecalibacterium prausnitzii	853	Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii
+>ERR1160658.278 10317.000032795_277 length=126 number of reps 1323	ERR1160658.278	LR135607.1	100.0	1.1100000000000001e-57	Klebsiella michiganensis	1134687	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella;Klebsiella michiganensis
+>ERR1080303.51 10317.000021280_50 length=151 number of reps 1292	ERR1080303.51	CP040518.1	100.0	1.7899999999999994e-71	Blautia sp. SC05B48	2479767	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia sp. SC05B48
+>ERR1079964.648 10317.000013105_647 length=151 number of reps 1189	ERR1079964.648	MN474966.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.18 10317.000028806_17 length=150 number of reps 1161	ERR1458766.18	MG858628.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.558 10317.000013105_557 length=151 number of reps 1158	ERR1079964.558	CP051672.1	100.0	1.7899999999999994e-71	Parabacteroides distasonis	823	Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides distasonis
+>ERR1458766.5385 10317.000028806_5384 length=150 number of reps 1149	ERR1458766.5385	CP051144.1	100.0	6.369999999999999e-71	Romboutsia sp. CE17	2724150	Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides distasonis
+>ERR1079964.924 10317.000013105_923 length=151 number of reps 1138	ERR1079964.924	LR640086.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1845804.468 10317.000023590_467 length=150 number of reps 1018	ERR1845804.468	MN081733.1	100.0	6.369999999999999e-71	Bacteroides sartorii	671267	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides sartorii
+>ERR2319745.462 10317.000050475_461 length=150 number of reps 979	ERR2319745.462	LC515634.1	100.0	6.369999999999999e-71	Bacteroides stercoris	46506	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides stercoris
+>ERR1079964.29 10317.000013105_28 length=151 number of reps 963	ERR1079964.29	LR797773.1	100.0	1.7899999999999994e-71	Enterobacter ludwigii	299767	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Enterobacter;Enterobacter ludwigii
+>ERR2696499.8 10317.000076358_7 length=151 number of reps 948	ERR2696499.8	CP053042.1	100.0	6.429999999999998e-71	Proteus cibarius	626774	Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus cibarius
+>ERR4019696.38 10317.000101088_37 length=151 number of reps 918	ERR4019696.38	HQ790005.1	100.0	1.7899999999999994e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
+>ERR2319745.2043 10317.000050475_2042 length=151 number of reps 916	ERR2319745.2043	MK727100.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.139 10317.000050475_138 length=151 number of reps 860	ERR2319745.139	MK274834.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.255 10317.000021280_254 length=151 number of reps 853	ERR1080303.255	MT445121.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.5714 10317.000028806_5713 length=150 number of reps 815	ERR1458766.5714				uncultured bacterium		
+>ERR2319745.353 10317.000050475_352 length=151 number of reps 812	ERR2319745.353				uncultured bacterium		
+>ERR2405131.1661 10317.000082870_1660 length=151 number of reps 768	ERR2405131.1661				uncultured bacterium		
+>ERR1841615.14984 10317.000040396_14983 length=150 number of reps 751	ERR1841615.14984				uncultured bacterium		
+>ERR2319745.704 10317.000050475_703 length=151 number of reps 743	ERR2319745.704				uncultured bacterium		
+>ERR1079964.294 10317.000013105_293 length=151 number of reps 708	ERR1079964.294				uncultured bacterium		
+>ERR1079964.879 10317.000013105_878 length=151 number of reps 693	ERR1079964.879				uncultured bacterium		
+>ERR1458766.170 10317.000028806_169 length=150 number of reps 668	ERR1458766.170				uncultured bacterium		
+>ERR1843602.6 10317.000040396_5 length=150 number of reps 665	ERR1843602.6				uncultured bacterium		
+>ERR2319745.112 10317.000050475_111 length=151 number of reps 659	ERR2319745.112				uncultured bacterium		
+>ERR1079964.401 10317.000013105_400 length=151 number of reps 656	ERR1079964.401				uncultured bacterium		
+>ERR1080303.1269 10317.000021280_1268 length=151 number of reps 653	ERR1080303.1269				uncultured bacterium		
+>ERR1079930.15 10317.000004800_14 length=151 number of reps 650	ERR1079930.15				uncultured bacterium		
+>ERR1079964.5810 10317.000013105_5809 length=151 number of reps 633	ERR1079964.5810				uncultured bacterium		
+>ERR1079964.396 10317.000013105_395 length=151 number of reps 627	ERR1079964.396				uncultured bacterium		
+>ERR2319745.185 10317.000050475_184 length=151 number of reps 624	ERR2319745.185				uncultured bacterium		
+>ERR1079964.2512 10317.000013105_2511 length=151 number of reps 607	ERR1079964.2512				uncultured bacterium		
+>ERR1458766.1414 10317.000028806_1413 length=150 number of reps 603	ERR1458766.1414				uncultured bacterium		
+>ERR1080303.6680 10317.000021280_6679 length=151 number of reps 593	ERR1080303.6680				uncultured bacterium		
+>ERR1458766.542 10317.000028806_541 length=150 number of reps 580	ERR1458766.542				uncultured bacterium		
+>ERR1458766.47 10317.000028806_46 length=150 number of reps 553	ERR1458766.47				uncultured bacterium		
+>ERR1458766.23 10317.000028806_22 length=150 number of reps 537	ERR1458766.23				uncultured bacterium		
+>ERR2405131.8233 10317.000082870_8232 length=151 number of reps 534	ERR2405131.8233				uncultured bacterium		
+>ERR1160658.299 10317.000032795_298 length=126 number of reps 531	ERR1160658.299				uncultured bacterium		
+>ERR1080303.1135 10317.000021280_1134 length=151 number of reps 512	ERR1080303.1135				uncultured bacterium		
+>ERR1845804.10194 10317.000023590_10193 length=150 number of reps 509	ERR1845804.10194				uncultured bacterium		
+>ERR1080303.3641 10317.000021280_3640 length=151 number of reps 496	ERR1080303.3641				uncultured bacterium		
+>ERR1080303.449 10317.000021280_448 length=151 number of reps 492	ERR1080303.449				uncultured bacterium		
+>ERR1079964.613 10317.000013105_612 length=151 number of reps 489	ERR1079964.613				uncultured bacterium		
+>ERR1458766.489 10317.000028806_488 length=150 number of reps 481	ERR1458766.489				uncultured bacterium		
+>ERR1842255.34 10317.000044555_33 length=150 number of reps 476	ERR1842255.34				uncultured bacterium		
+>ERR1079964.893 10317.000013105_892 length=151 number of reps 475	ERR1079964.893				uncultured bacterium		
+>ERR1079964.2508 10317.000013105_2507 length=151 number of reps 474	ERR1079964.2508				uncultured bacterium		
+>ERR2697834.9 10317.000097233_8 length=151 number of reps 464	ERR2697834.9				uncultured bacterium		
+>ERR2405131.39 10317.000082870_38 length=151 number of reps 457	ERR2405131.39				uncultured bacterium		
+>ERR1160658.178 10317.000032795_177 length=126 number of reps 451	ERR1160658.178				uncultured bacterium		
+>ERR1845804.14876 10317.000023590_14875 length=150 number of reps 442	ERR1845804.14876				uncultured bacterium		
+>ERR1160658.317 10317.000032795_316 length=126 number of reps 442	ERR1160658.317				uncultured bacterium		
+>ERR1458766.214 10317.000028806_213 length=150 number of reps 439	ERR1458766.214				uncultured bacterium		
+>ERR1080303.2488 10317.000021280_2487 length=151 number of reps 433	ERR1080303.2488				uncultured bacterium		
+>ERR1079964.3599 10317.000013105_3598 length=151 number of reps 432	ERR1079964.3599				uncultured bacterium		
+>ERR1845804.936 10317.000023590_935 length=150 number of reps 422	ERR1845804.936				uncultured bacterium		
+>ERR1458766.14830 10317.000028806_14829 length=150 number of reps 419	ERR1458766.14830				uncultured bacterium		
+>ERR2405131.3916 10317.000082870_3915 length=151 number of reps 417	ERR2405131.3916				uncultured bacterium		
+>ERR1079964.1035 10317.000013105_1034 length=151 number of reps 415	ERR1079964.1035				uncultured bacterium		
+>ERR1080303.3900 10317.000021280_3899 length=151 number of reps 410	ERR1080303.3900				uncultured bacterium		
+>ERR1079964.144 10317.000013105_143 length=151 number of reps 409	ERR1079964.144				uncultured bacterium		
+>ERR1079964.210 10317.000013105_209 length=151 number of reps 408	ERR1079964.210				uncultured bacterium		
+>ERR1845804.56 10317.000023590_55 length=150 number of reps 403	ERR1845804.56				uncultured bacterium		
+>ERR2697834.35 10317.000097233_34 length=151 number of reps 400	ERR2697834.35				uncultured bacterium		
+>ERR1842632.2039 10317.000062081_2038 length=150 number of reps 389	ERR1842632.2039				uncultured bacterium		
+>ERR1458766.80 10317.000028806_79 length=150 number of reps 388	ERR1458766.80				uncultured bacterium		
+>ERR2405131.976 10317.000082870_975 length=151 number of reps 384	ERR2405131.976				uncultured bacterium		
+>ERR1843602.96 10317.000040396_95 length=150 number of reps 371	ERR1843602.96				uncultured bacterium		
+>ERR1458766.65 10317.000028806_64 length=150 number of reps 365	ERR1458766.65				uncultured bacterium		
+>ERR2319745.44960 10317.000050475_44959 length=150 number of reps 363	ERR2319745.44960				uncultured bacterium		
+>ERR1160658.364 10317.000032795_363 length=126 number of reps 361	ERR1160658.364				uncultured bacterium		
+>ERR1080303.496 10317.000021280_495 length=151 number of reps 361	ERR1080303.496				uncultured bacterium		
+>ERR1842255.107 10317.000044555_106 length=150 number of reps 353	ERR1842255.107				uncultured bacterium		
+>ERR1080303.75 10317.000021280_74 length=151 number of reps 353	ERR1080303.75				uncultured bacterium		
+>ERR1079964.6062 10317.000013105_6061 length=151 number of reps 350	ERR1079964.6062				uncultured bacterium		
+>ERR1079964.402 10317.000013105_401 length=151 number of reps 347	ERR1079964.402				uncultured bacterium		
+>ERR2319745.2718 10317.000050475_2717 length=151 number of reps 345	ERR2319745.2718				uncultured bacterium		
+>ERR1080303.3395 10317.000021280_3394 length=151 number of reps 341	ERR1080303.3395				uncultured bacterium		
+>ERR1458766.226 10317.000028806_225 length=150 number of reps 335	ERR1458766.226				uncultured bacterium		
+>ERR1458766.475 10317.000028806_474 length=150 number of reps 332	ERR1458766.475				uncultured bacterium		
+>ERR1079964.44 10317.000013105_43 length=151 number of reps 332	ERR1079964.44				uncultured bacterium		
+>ERR1079964.2930 10317.000013105_2929 length=151 number of reps 331	ERR1079964.2930				uncultured bacterium		
+>ERR1458766.1170 10317.000028806_1169 length=150 number of reps 329	ERR1458766.1170	MN474435.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.485 10317.000028806_484 length=150 number of reps 326	ERR1458766.485	MN474887.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.36 10317.000013105_35 length=151 number of reps 326	ERR1079964.36	MT268988.1	100.0	6.429999999999998e-71	Bacteroides uniformis	820	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides uniformis
+>ERR1841615.1284 10317.000040396_1283 length=150 number of reps 309	ERR1841615.1284	MT445141.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.9 10317.000013105_8 length=151 number of reps 304	ERR1079964.9	MT464394.1	100.0	6.429999999999998e-71	Bacteroides dorei	357276	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides dorei
+>ERR2405131.2794 10317.000082870_2793 length=151 number of reps 303	ERR2405131.2794	JQ185275.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2405131.57 10317.000082870_56 length=151 number of reps 298	ERR2405131.57	MK274833.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.28 10317.000028806_27 length=150 number of reps 297	ERR1458766.28	CP049223.1	100.0	6.369999999999999e-71	Lactobacillus iners	147802	Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus iners
+>ERR1079964.23 10317.000013105_22 length=151 number of reps 297	ERR1079964.23	EF709162.1	100.0	1.7899999999999994e-71	uncultured Bacteroidales bacterium	194843	Bacteroidetes;Bacteroidia;Bacteroidales;NaN;NaN;uncultured Bacteroidales bacterium
+>ERR1160658.455 10317.000032795_454 length=126 number of reps 296	ERR1160658.455	KP108905.1	100.0	1.1100000000000001e-57	uncultured Oribacterium sp.	462198	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Oribacterium;uncultured Oribacterium sp.
+>ERR1458766.1148 10317.000028806_1147 length=150 number of reps 293	ERR1458766.1148	MH761663.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1845804.6980 10317.000023590_6979 length=150 number of reps 286	ERR1845804.6980	MT516170.1	99.333	2.96e-69	Escherichia fergusonii	564	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia fergusonii
+>ERR1843602.34 10317.000040396_33 length=150 number of reps 281	ERR1843602.34	MT516130.1	100.0	6.369999999999999e-71	Lactobacillus ruminis	1623	Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus ruminis
+>ERR1160658.199 10317.000032795_198 length=126 number of reps 279	ERR1160658.199	KX994305.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2405131.1523 10317.000082870_1522 length=151 number of reps 276	ERR2405131.1523	MH761572.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.3701 10317.000050475_3700 length=151 number of reps 271	ERR2319745.3701	LR654724.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2696499.90 10317.000076358_89 length=151 number of reps 270	ERR2696499.90	CP053042.1	99.338	8.309999999999998e-70	Proteus cibarius	626774	Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus cibarius
+>ERR1845804.1415 10317.000023590_1414 length=150 number of reps 270	ERR1845804.1415	MN212362.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.8381 10317.000050475_8380 length=151 number of reps 269	ERR2319745.8381	MH467656.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1841615.933 10317.000040396_932 length=150 number of reps 269	ERR1841615.933	MN474266.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.38 10317.000021280_37 length=151 number of reps 266	ERR1080303.38	MN215011.1	100.0	1.7899999999999994e-71	uncultured Bacteroides sp.	162156	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;uncultured Bacteroides sp.
+>ERR1458766.231 10317.000028806_230 length=150 number of reps 263	ERR1458766.231	MT269337.1	100.0	6.369999999999999e-71	Finegoldia magna	1260	Firmicutes;Tissierellia;Tissierellales;Peptoniphilaceae;Finegoldia;Finegoldia magna
+>ERR1458766.5857 10317.000028806_5856 length=150 number of reps 260	ERR1458766.5857	MH761330.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.34 10317.000028806_33 length=150 number of reps 256	ERR1458766.34	KY672216.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.481 10317.000028806_480 length=150 number of reps 254	ERR1458766.481	LR654483.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.854 10317.000028806_853 length=150 number of reps 245	ERR1458766.854	MT491082.1	100.0	6.369999999999999e-71	Bifidobacterium longum	216816	Actinobacteria;Actinobacteria;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium;Bifidobacterium longum
+>ERR1160658.251 10317.000032795_250 length=126 number of reps 245	ERR1160658.251	MT268988.1	100.0	1.1100000000000001e-57	Bacteroides uniformis	820	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides uniformis
+>ERR2319745.401 10317.000050475_400 length=149 number of reps 243	ERR2319745.401	KU467712.1	100.0	2.2699999999999994e-70	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.2001 10317.000050475_2000 length=151 number of reps 243	ERR2319745.2001	KP804558.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2405131.1737 10317.000082870_1736 length=151 number of reps 242	ERR2405131.1737	FP076187.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1843602.25 10317.000040396_24 length=150 number of reps 241	ERR1843602.25	KP105400.1	100.0	6.369999999999999e-71	uncultured Prevotella sp.	159272	Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;uncultured Prevotella sp.
+>ERR1842255.10460 10317.000044555_10459 length=150 number of reps 241	ERR1842255.10460	DQ794968.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.155 10317.000021280_154 length=151 number of reps 240	ERR1080303.155	MN474769.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.54 10317.000013105_53 length=151 number of reps 239	ERR1079964.54	MH569932.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.169 10317.000028806_168 length=150 number of reps 235	ERR1458766.169	CP040518.1	100.0	6.369999999999999e-71	Blautia sp. SC05B48	2479767	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Blautia;Blautia sp. SC05B48
+>ERR2319745.1904 10317.000050475_1903 length=150 number of reps 234	ERR2319745.1904	KF841716.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1843602.84 10317.000040396_83 length=150 number of reps 231	ERR1843602.84	KY285433.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.1048 10317.000032795_1047 length=126 number of reps 230	ERR1160658.1048	MT472101.1	100.0	1.1100000000000001e-57	Pseudomonas syringae pv. actinidiae	103796	Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas syringae
+>ERR1458766.68 10317.000028806_67 length=150 number of reps 228	ERR1458766.68	MT268987.1	100.0	6.369999999999999e-71	Bacteroides ovatus	28116	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides ovatus
+>ERR1458766.418 10317.000028806_417 length=150 number of reps 227	ERR1458766.418	MH761645.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.160 10317.000050475_159 length=151 number of reps 226	ERR2319745.160	KF843249.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1845804.8414 10317.000023590_8413 length=150 number of reps 223	ERR1845804.8414	MT416445.1	100.0	6.369999999999999e-71	Staphylococcus aureus	1280	Firmicutes;Bacilli;Bacillales;Staphylococcaceae;Staphylococcus;Staphylococcus aureus
+>ERR2319745.637 10317.000050475_636 length=151 number of reps 222	ERR2319745.637	KC304281.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.4571 10317.000050475_4570 length=151 number of reps 222	ERR2319745.4571	DQ806879.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.162 10317.000028806_161 length=150 number of reps 222	ERR1458766.162	MH291619.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1841615.86 10317.000040396_85 length=150 number of reps 220	ERR1841615.86	JN612466.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.1103 10317.000013105_1102 length=151 number of reps 217	ERR1079964.1103	MH570035.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.140 10317.000032795_139 length=126 number of reps 216	ERR1160658.140	MF365666.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.363 10317.000028806_362 length=150 number of reps 215	ERR1458766.363	LC489059.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1842255.18 10317.000044555_17 length=150 number of reps 213	ERR1842255.18	MH291422.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.640 10317.000032795_639 length=126 number of reps 213	ERR1160658.640	MF081592.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.480 10317.000021280_479 length=151 number of reps 213	ERR1080303.480	HQ791752.1	100.0	1.7899999999999994e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
+>ERR1080303.28 10317.000021280_27 length=151 number of reps 213	ERR1080303.28	KC304723.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.1749 10317.000032795_1748 length=126 number of reps 212	ERR1160658.1749	KX654258.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2696499.156 10317.000076358_155 length=151 number of reps 211	ERR2696499.156	MT268985.1	100.0	6.429999999999998e-71	Bacteroides fragilis	817	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides fragilis
+>ERR1080303.379 10317.000021280_378 length=151 number of reps 211	ERR1080303.379	CP051144.1	100.0	1.7899999999999994e-71	Romboutsia sp. CE17	2724150	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides fragilis
+>ERR2319745.3848 10317.000050475_3847 length=151 number of reps 209	ERR2319745.3848	KF229951.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.5497 10317.000028806_5496 length=150 number of reps 209	ERR1458766.5497	MF365015.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.2192 10317.000021280_2191 length=151 number of reps 207	ERR1080303.2192	MG702800.1	100.0	1.7899999999999994e-71	uncultured Lachnospiraceae bacterium	297314	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;NaN;uncultured Lachnospiraceae bacterium
+>ERR2319745.536 10317.000050475_535 length=151 number of reps 205	ERR2319745.536	MH468612.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.3 10317.000028806_2 length=150 number of reps 204	ERR1458766.3	MH468371.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1845804.11038 10317.000023590_11037 length=150 number of reps 203	ERR1845804.11038	MT416449.1	99.333	2.96e-69	Escherichia coli	562	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
+>ERR1160658.1818 10317.000032795_1817 length=126 number of reps 201	ERR1160658.1818	MH221941.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.1096 10317.000032795_1095 length=126 number of reps 201	ERR1160658.1096	MT516207.1	100.0	1.1100000000000001e-57	Weissella confusa	1583	Firmicutes;Bacilli;Lactobacillales;Leuconostocaceae;Weissella;Weissella confusa
+>ERR1079964.1770 10317.000013105_1769 length=149 number of reps 201	ERR1079964.1770	MT268993.1	100.0	2.2699999999999994e-70	Odoribacter splanchnicus	28118	Bacteroidetes;Bacteroidia;Bacteroidales;Odoribacteraceae;Odoribacter;Odoribacter splanchnicus
+>ERR1079964.1762 10317.000013105_1761 length=151 number of reps 201	ERR1079964.1762	MH572109.1	100.0	1.7899999999999994e-71	uncultured Lachnospiraceae bacterium	297314	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;NaN;uncultured Lachnospiraceae bacterium
+>ERR2319745.1536 10317.000050475_1535 length=151 number of reps 200	ERR2319745.1536	JN611629.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.1104 10317.000032795_1103 length=126 number of reps 198	ERR1160658.1104	MN252008.1	99.206	5.17e-56	Serratia marcescens	615	Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia;Serratia marcescens
+>ERR1079964.6055 10317.000013105_6054 length=151 number of reps 198	ERR1079964.6055	MN474509.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1845804.7974 10317.000023590_7973 length=150 number of reps 197	ERR1845804.7974	KY671809.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.4233 10317.000021280_4232 length=151 number of reps 197	ERR1080303.4233	MT515977.1	100.0	6.429999999999998e-71	Bacteroides vulgatus	821	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides vulgatus
+>ERR2405131.1609 10317.000082870_1608 length=151 number of reps 196	ERR2405131.1609	HQ784797.1	100.0	1.7899999999999994e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
+>ERR2319745.25426 10317.000050475_25425 length=151 number of reps 196	ERR2319745.25426	JQ940722.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.24670 10317.000050475_24669 length=151 number of reps 196	ERR2319745.24670	FP078720.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.182 10317.000028806_181 length=150 number of reps 193	ERR1458766.182	MG702771.1	100.0	6.369999999999999e-71	uncultured Lachnospiraceae bacterium	297314	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;NaN;uncultured Lachnospiraceae bacterium
+>ERR1160658.634 10317.000032795_633 length=126 number of reps 191	ERR1160658.634	MN474983.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2697834.389 10317.000097233_388 length=151 number of reps 189	ERR2697834.389	LR648546.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.1032 10317.000013105_1031 length=151 number of reps 187	ERR1079964.1032	MF364912.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1843602.86 10317.000040396_85 length=150 number of reps 186	ERR1843602.86	KP108951.1	100.0	6.369999999999999e-71	uncultured Prevotella sp.	159272	Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella;uncultured Prevotella sp.
+>ERR1458766.1102 10317.000028806_1101 length=150 number of reps 186	ERR1458766.1102	LC528172.1	100.0	6.369999999999999e-71	Anaerostipes hadrus	649756	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes hadrus
+>ERR2319745.4523 10317.000050475_4522 length=151 number of reps 185	ERR2319745.4523	MF264046.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.905 10317.000021280_904 length=151 number of reps 184	ERR1080303.905	MH761842.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.196 10317.000032795_195 length=126 number of reps 183	ERR1160658.196	KX996994.1	99.206	5.17e-56	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.2 10317.000021280_1 length=151 number of reps 183	ERR1080303.2	MH228452.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.678 10317.000032795_677 length=126 number of reps 182	ERR1160658.678	LC268639.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.3265 10317.000050475_3264 length=151 number of reps 181	ERR2319745.3265	KC304481.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.110 10317.000028806_109 length=150 number of reps 181	ERR1458766.110	MH569932.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.3631 10317.000050475_3630 length=151 number of reps 177	ERR2319745.3631	KJ421935.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1842255.164 10317.000044555_163 length=150 number of reps 177	ERR1842255.164	KY671907.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.4293 10317.000050475_4292 length=151 number of reps 176	ERR2319745.4293	KY049721.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.350 10317.000050475_349 length=151 number of reps 176	ERR2319745.350	MK274681.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.16522 10317.000050475_16521 length=151 number of reps 175	ERR2319745.16522	MN212492.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.2832 10317.000021280_2831 length=151 number of reps 175	ERR1080303.2832	MN212470.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.53 10317.000028806_52 length=150 number of reps 173	ERR1458766.53	LR646661.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.2367 10317.000032795_2366 length=126 number of reps 173	ERR1160658.2367	LC356867.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.3134 10317.000021280_3133 length=151 number of reps 172	ERR1080303.3134	HQ748899.1	100.0	1.7899999999999994e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
+>ERR2319745.188 10317.000050475_187 length=151 number of reps 171	ERR2319745.188	HQ787930.1	100.0	1.7899999999999994e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
+>ERR1458766.43 10317.000028806_42 length=150 number of reps 170	ERR1458766.43	MN212518.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.4679 10317.000013105_4678 length=151 number of reps 170	ERR1079964.4679	MH196680.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.154 10317.000013105_153 length=151 number of reps 170	ERR1079964.154	MH291839.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.626 10317.000032795_625 length=126 number of reps 169	ERR1160658.626	MH222252.1	99.206	5.17e-56	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR4019696.473 10317.000101088_472 length=151 number of reps 168	ERR4019696.473	FP078720.1	98.675	3.87e-68	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.652 10317.000050475_651 length=151 number of reps 167	ERR2319745.652	KC304747.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.154 10317.000028806_153 length=150 number of reps 167	ERR1458766.154	KF110105.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2405131.227 10317.000082870_226 length=151 number of reps 166	ERR2405131.227	KX593306.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1845804.10448 10317.000023590_10447 length=150 number of reps 164	ERR1845804.10448	HQ791598.1	100.0	6.369999999999999e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
+>ERR1080303.6069 10317.000021280_6068 length=151 number of reps 164	ERR1080303.6069	KF232424.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.1744 10317.000021280_1743 length=151 number of reps 163	ERR1080303.1744	MN212518.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2405131.240 10317.000082870_239 length=151 number of reps 162	ERR2405131.240	MT416449.1	99.338	8.309999999999998e-70	Escherichia coli	562	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia coli
+>ERR1160658.2194 10317.000032795_2193 length=126 number of reps 162	ERR1160658.2194	CP053042.1	97.619	1.1200000000000001e-52	Proteus cibarius	626774	Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus cibarius
+>ERR1079964.882 10317.000013105_881 length=151 number of reps 162	ERR1079964.882	LC528172.1	100.0	1.7899999999999994e-71	Anaerostipes hadrus	649756	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;Anaerostipes;Anaerostipes hadrus
+>ERR2319745.3080 10317.000050475_3079 length=151 number of reps 161	ERR2319745.3080	LR637623.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.1042 10317.000028806_1041 length=150 number of reps 161	ERR1458766.1042	MH467921.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.479 10317.000013105_478 length=151 number of reps 161	ERR1079964.479	FP077798.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.94 10317.000028806_93 length=150 number of reps 160	ERR1458766.94	LR651281.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2405131.328 10317.000082870_327 length=151 number of reps 159	ERR2405131.328	MH761181.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.424 10317.000050475_423 length=151 number of reps 159	ERR2319745.424	MF364887.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1842835.181 10317.000053460_180 length=150 number of reps 159	ERR1842835.181	DQ806733.1	99.333	2.96e-69	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.131 10317.000028806_130 length=150 number of reps 159	ERR1458766.131	LC515606.1	100.0	6.369999999999999e-71	Acidaminococcus intestini	187327	Firmicutes;Negativicutes;Acidaminococcales;Acidaminococcaceae;Acidaminococcus;Acidaminococcus intestini
+>ERR1458766.1204 10317.000028806_1203 length=150 number of reps 158	ERR1458766.1204	CP040902.1	100.0	6.369999999999999e-71	Longibaculum sp. KGMB06250	2584943	Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Longibaculum;Longibaculum sp. KGMB06250
+>ERR1079964.4288 10317.000013105_4287 length=151 number of reps 158	ERR1079964.4288	MH761696.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.2002 10317.000050475_2001 length=151 number of reps 156	ERR2319745.2002	MN474417.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2696499.27 10317.000076358_26 length=151 number of reps 155	ERR2696499.27	CP053042.1	99.338	8.309999999999998e-70	Proteus cibarius	626774	Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus cibarius
+>ERR1845804.862 10317.000023590_861 length=150 number of reps 155	ERR1845804.862	MN212164.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2405131.243 10317.000082870_242 length=151 number of reps 154	ERR2405131.243	KF385804.1	98.01299999999999	1.7999999999999995e-66	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.122 10317.000021280_121 length=149 number of reps 153	ERR1080303.122	KR188893.1	100.0	2.2699999999999994e-70	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2304148.726 10317.000087039_725 length=151 number of reps 152	ERR2304148.726	MT509550.1	100.0	1.7899999999999994e-71	Raoultella ornithinolytica	54291	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Raoultella;Raoultella ornithinolytica
+>ERR1843602.7 10317.000040396_6 length=150 number of reps 152	ERR1843602.7	MT510319.1	100.0	6.369999999999999e-71	Lactobacillus ruminis	1623	Firmicutes;Bacilli;Lactobacillales;Lactobacillaceae;Lactobacillus;Lactobacillus ruminis
+>ERR1080303.262 10317.000021280_261 length=151 number of reps 152	ERR1080303.262	MF670802.1	100.0	1.7899999999999994e-71	uncultured Faecalibacterium sp.	259315	Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;uncultured Faecalibacterium sp.
+>ERR2319745.375 10317.000050475_374 length=149 number of reps 151	ERR2319745.375	LR590664.1	100.0	2.2699999999999994e-70	Methanobrevibacter smithii	2173	Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;Methanobrevibacter;Methanobrevibacter smithii
+>ERR1160658.289 10317.000032795_288 length=126 number of reps 150	ERR1160658.289	MH223120.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2697834.41 10317.000097233_40 length=151 number of reps 149	ERR2697834.41	LR638955.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2696499.385 10317.000076358_384 length=151 number of reps 149	ERR2696499.385				uncultured bacterium		
+>ERR1160658.732 10317.000032795_731 length=126 number of reps 149	ERR1160658.732				uncultured bacterium		
+>ERR1079964.5169 10317.000013105_5168 length=151 number of reps 149	ERR1079964.5169				uncultured bacterium		
+>ERR1079964.770 10317.000013105_769 length=151 number of reps 148	ERR1079964.770				uncultured bacterium		
+>ERR1079964.343 10317.000013105_342 length=151 number of reps 148	ERR1079964.343				uncultured bacterium		
+>ERR2319745.382 10317.000050475_381 length=151 number of reps 146	ERR2319745.382				uncultured bacterium		
+>ERR1458766.2449 10317.000028806_2448 length=150 number of reps 146	ERR1458766.2449				uncultured bacterium		
+>ERR1160658.1766 10317.000032795_1765 length=126 number of reps 146	ERR1160658.1766				uncultured bacterium		
+>ERR1080303.582 10317.000021280_581 length=151 number of reps 146	ERR1080303.582				uncultured bacterium		
+>ERR1079964.145 10317.000013105_144 length=151 number of reps 146	ERR1079964.145				uncultured bacterium		
+>ERR2405131.4736 10317.000082870_4735 length=151 number of reps 145	ERR2405131.4736				uncultured bacterium		
+>ERR1316052.90 10317.000039806_89 length=150 number of reps 144	ERR1316052.90				uncultured bacterium		
+>ERR1080303.2608 10317.000021280_2607 length=151 number of reps 144	ERR1080303.2608				uncultured bacterium		
+>ERR1458766.4960 10317.000028806_4959 length=150 number of reps 143	ERR1458766.4960				uncultured bacterium		
+>ERR2696499.325 10317.000076358_324 length=151 number of reps 142	ERR2696499.325				uncultured bacterium		
+>ERR1160658.1823 10317.000032795_1822 length=126 number of reps 142	ERR1160658.1823				uncultured bacterium		
+>ERR1458766.3786 10317.000028806_3785 length=150 number of reps 141	ERR1458766.3786				uncultured bacterium		
+>ERR1458766.161 10317.000028806_160 length=150 number of reps 140	ERR1458766.161				uncultured bacterium		
+>ERR1458766.6440 10317.000028806_6439 length=150 number of reps 139	ERR1458766.6440				uncultured bacterium		
+>ERR2696499.153 10317.000076358_152 length=151 number of reps 138	ERR2696499.153				uncultured bacterium		
+>ERR2405131.2249 10317.000082870_2248 length=151 number of reps 138	ERR2405131.2249				uncultured bacterium		
+>ERR2405131.18 10317.000082870_17 length=151 number of reps 138	ERR2405131.18				uncultured bacterium		
+>ERR1079964.58 10317.000013105_57 length=151 number of reps 138	ERR1079964.58				uncultured bacterium		
+>ERR1458766.61 10317.000028806_60 length=150 number of reps 137	ERR1458766.61				uncultured bacterium		
+>ERR1160658.4302 10317.000032795_4301 length=126 number of reps 137	ERR1160658.4302				uncultured bacterium		
+>ERR1160658.3606 10317.000032795_3605 length=126 number of reps 137	ERR1160658.3606				uncultured bacterium		
+>ERR2697834.6 10317.000097233_5 length=151 number of reps 136	ERR2697834.6				uncultured bacterium		
+>ERR2405131.54 10317.000082870_53 length=151 number of reps 136	ERR2405131.54				uncultured bacterium		
+>ERR2405131.5311 10317.000082870_5310 length=150 number of reps 136	ERR2405131.5311				uncultured bacterium		
+>ERR1160658.3110 10317.000032795_3109 length=126 number of reps 136	ERR1160658.3110				uncultured bacterium		
+>ERR1080303.204 10317.000021280_203 length=151 number of reps 135	ERR1080303.204				uncultured bacterium		
+>ERR1079964.2888 10317.000013105_2887 length=151 number of reps 135	ERR1079964.2888				uncultured bacterium		
+>ERR1842255.756 10317.000044555_755 length=150 number of reps 134	ERR1842255.756				uncultured bacterium		
+>ERR2697834.89 10317.000097233_88 length=151 number of reps 133	ERR2697834.89				uncultured bacterium		
+>ERR2319745.329 10317.000050475_328 length=151 number of reps 133	ERR2319745.329				uncultured bacterium		
+>ERR1316052.144 10317.000039806_143 length=150 number of reps 133	ERR1316052.144				uncultured bacterium		
+>ERR1160658.863 10317.000032795_862 length=126 number of reps 133	ERR1160658.863				uncultured bacterium		
+>ERR2319745.30501 10317.000050475_30500 length=151 number of reps 132	ERR2319745.30501				uncultured bacterium		
+>ERR1458766.44 10317.000028806_43 length=150 number of reps 132	ERR1458766.44				uncultured bacterium		
+>ERR1458766.1088 10317.000028806_1087 length=150 number of reps 132	ERR1458766.1088				uncultured bacterium		
+>ERR2696499.1131 10317.000076358_1130 length=151 number of reps 131	ERR2696499.1131				uncultured bacterium		
+>ERR2405131.877 10317.000082870_876 length=151 number of reps 131	ERR2405131.877				uncultured bacterium		
+>ERR1845804.511 10317.000023590_510 length=150 number of reps 131	ERR1845804.511				uncultured bacterium		
+>ERR1843602.107 10317.000040396_106 length=150 number of reps 131	ERR1843602.107				uncultured bacterium		
+>ERR1845804.102 10317.000023590_101 length=150 number of reps 130	ERR1845804.102				uncultured bacterium		
+>ERR1160658.438 10317.000032795_437 length=126 number of reps 130	ERR1160658.438				uncultured bacterium		
+>ERR2405131.660 10317.000082870_659 length=151 number of reps 129	ERR2405131.660				uncultured bacterium		
+>ERR1843602.1 10317.000040396_0 length=150 number of reps 129	ERR1843602.1				uncultured bacterium		
+>ERR2319745.67 10317.000050475_66 length=151 number of reps 128	ERR2319745.67				uncultured bacterium		
+>ERR2319745.366 10317.000050475_365 length=151 number of reps 128	ERR2319745.366				uncultured bacterium		
+>ERR2319745.3534 10317.000050475_3533 length=151 number of reps 128	ERR2319745.3534				uncultured bacterium		
+>ERR1841615.75 10317.000040396_74 length=150 number of reps 128	ERR1841615.75				uncultured bacterium		
+>ERR1160658.2154 10317.000032795_2153 length=126 number of reps 127	ERR1160658.2154				uncultured bacterium		
+>ERR1080303.3722 10317.000021280_3721 length=151 number of reps 127	ERR1080303.3722				uncultured bacterium		
+>ERR1079964.1014 10317.000013105_1013 length=151 number of reps 126	ERR1079964.1014				uncultured bacterium		
+>ERR1842255.360 10317.000044555_359 length=150 number of reps 124	ERR1842255.360				uncultured bacterium		
+>ERR1160658.14 10317.000032795_13 length=126 number of reps 124	ERR1160658.14				uncultured bacterium		
+>ERR1079964.984 10317.000013105_983 length=151 number of reps 124	ERR1079964.984				uncultured bacterium		
+>ERR4019696.24 10317.000101088_23 length=151 number of reps 123	ERR4019696.24				uncultured bacterium		
+>ERR2696499.44 10317.000076358_43 length=151 number of reps 122	ERR2696499.44				uncultured bacterium		
+>ERR1458766.84 10317.000028806_83 length=150 number of reps 122	ERR1458766.84				uncultured bacterium		
+>ERR1079964.130 10317.000013105_129 length=151 number of reps 122	ERR1079964.130				uncultured bacterium		
+>ERR2697834.241 10317.000097233_240 length=151 number of reps 121	ERR2697834.241				uncultured bacterium		
+>ERR2696499.39 10317.000076358_38 length=151 number of reps 121	ERR2696499.39				uncultured bacterium		
+>ERR1160658.731 10317.000032795_730 length=126 number of reps 121	ERR1160658.731				uncultured bacterium		
+>ERR1079964.234 10317.000013105_233 length=151 number of reps 121	ERR1079964.234				uncultured bacterium		
+>ERR1079964.151 10317.000013105_150 length=151 number of reps 121	ERR1079964.151				uncultured bacterium		
+>ERR4019696.85 10317.000101088_84 length=151 number of reps 120	ERR4019696.85				uncultured bacterium		
+>ERR1843602.188 10317.000040396_187 length=150 number of reps 120	ERR1843602.188				uncultured bacterium		
+>ERR2405131.659 10317.000082870_658 length=151 number of reps 119	ERR2405131.659	KY285519.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.17939 10317.000028806_17938 length=150 number of reps 119	ERR1458766.17939	CP051672.1	100.0	6.369999999999999e-71	Parabacteroides distasonis	823	Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides distasonis
+>ERR1160658.2772 10317.000032795_2771 length=126 number of reps 119	ERR1160658.2772	MT516170.1	99.206	5.17e-56	Escherichia fergusonii	564	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Escherichia;Escherichia fergusonii
+>ERR1160658.3129 10317.000032795_3128 length=126 number of reps 118	ERR1160658.3129	MN252008.1	100.0	1.1100000000000001e-57	Serratia marcescens	615	Proteobacteria;Gammaproteobacteria;Enterobacterales;Yersiniaceae;Serratia;Serratia marcescens
+>ERR1160658.767 10317.000032795_766 length=126 number of reps 117	ERR1160658.767	KP808093.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.2141 10317.000032795_2140 length=126 number of reps 117	ERR1160658.2141	LC359100.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1841615.173 10317.000040396_172 length=150 number of reps 116	ERR1841615.173	MN212492.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.4369 10317.000013105_4368 length=151 number of reps 116	ERR1079964.4369	MN474469.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2696499.169 10317.000076358_168 length=151 number of reps 114	ERR2696499.169	CP053042.1	99.338	8.309999999999998e-70	Proteus cibarius	626774	Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus cibarius
+>ERR1841615.96 10317.000040396_95 length=150 number of reps 114	ERR1841615.96	KF843318.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.635 10317.000013105_634 length=151 number of reps 114	ERR1079964.635	LR651281.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR4019696.1254 10317.000101088_1253 length=151 number of reps 113	ERR4019696.1254	CP051672.1	99.338	8.309999999999998e-70	Parabacteroides distasonis	823	Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;Parabacteroides distasonis
+>ERR2319745.13267 10317.000050475_13266 length=151 number of reps 113	ERR2319745.13267	MH227048.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1843602.1031 10317.000040396_1030 length=150 number of reps 112	ERR1843602.1031	KT926888.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.418 10317.000032795_417 length=126 number of reps 112	ERR1160658.418	MT125906.1	100.0	1.1100000000000001e-57	Klebsiella pneumoniae	573	Proteobacteria;Gammaproteobacteria;Enterobacterales;Enterobacteriaceae;Klebsiella;Klebsiella pneumoniae
+>ERR1079964.593 10317.000013105_592 length=151 number of reps 112	ERR1079964.593	FJ345906.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR4019696.303 10317.000101088_302 length=151 number of reps 111	ERR4019696.303	MT268985.1	98.675	3.87e-68	Bacteroides fragilis	817	Bacteroidetes;Bacteroidia;Bacteroidales;Bacteroidaceae;Bacteroides;Bacteroides fragilis
+>ERR2405131.95 10317.000082870_94 length=151 number of reps 111	ERR2405131.95	FJ369890.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1845804.7961 10317.000023590_7960 length=150 number of reps 111	ERR1845804.7961	MF364754.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1842255.32 10317.000044555_31 length=150 number of reps 111	ERR1842255.32	KU112262.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.554 10317.000028806_553 length=150 number of reps 111	ERR1458766.554	MH572109.1	100.0	6.369999999999999e-71	uncultured Lachnospiraceae bacterium	297314	Firmicutes;Clostridia;Clostridiales;Lachnospiraceae;NaN;uncultured Lachnospiraceae bacterium
+>ERR2405131.21 10317.000082870_20 length=151 number of reps 110	ERR2405131.21	MN211895.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.33185 10317.000050475_33184 length=151 number of reps 110	ERR2319745.33185	MN212164.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.2557 10317.000050475_2556 length=151 number of reps 110	ERR2319745.2557	FP078221.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.1578 10317.000050475_1577 length=151 number of reps 109	ERR2319745.1578	LC528171.1	100.0	6.429999999999998e-71	Akkermansia muciniphila	239935	Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Akkermansiaceae;Akkermansia;Akkermansia muciniphila
+>ERR2314040.56 10317.000054273_55 length=151 number of reps 109	ERR2314040.56	KR952335.1	100.0	1.7899999999999994e-71	Penicillium roqueforti	5082	Ascomycota;Eurotiomycetes;Eurotiales;Aspergillaceae;Penicillium;Penicillium roqueforti
+>ERR1845804.4857 10317.000023590_4856 length=150 number of reps 109	ERR1845804.4857	MH462403.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.1749 10317.000013105_1748 length=151 number of reps 109	ERR1079964.1749	MH291865.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.531 10317.000032795_530 length=126 number of reps 108	ERR1160658.531	KX971281.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.344 10317.000032795_343 length=126 number of reps 108	ERR1160658.344	MT445109.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.4084 10317.000050475_4083 length=151 number of reps 107	ERR2319745.4084	MN474179.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.1113 10317.000050475_1112 length=151 number of reps 107	ERR2319745.1113	KY878431.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.7 10317.000013105_6 length=151 number of reps 107	ERR1079964.7	CP048437.1	100.0	6.429999999999998e-71	Faecalibacterium prausnitzii A2-165	411483	Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Faecalibacterium;Faecalibacterium prausnitzii
+>ERR2319745.9193 10317.000050475_9192 length=151 number of reps 106	ERR2319745.9193	KC303773.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.19798 10317.000028806_19797 length=150 number of reps 106	ERR1458766.19798	KY049721.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.675 10317.000032795_674 length=126 number of reps 106	ERR1160658.675	MT516160.1	99.206	5.17e-56	Enterococcus faecium	1352	Firmicutes;Bacilli;Lactobacillales;Enterococcaceae;Enterococcus;Enterococcus faecium
+>ERR1079964.4968 10317.000013105_4967 length=151 number of reps 106	ERR1079964.4968	KY048547.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.7837 10317.000050475_7836 length=151 number of reps 105	ERR2319745.7837	FP078832.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1845804.3073 10317.000023590_3072 length=150 number of reps 105	ERR1845804.3073	MT275475.1	100.0	6.369999999999999e-71	Erysipelatoclostridium ramosum	1547	Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae;Erysipelatoclostridium;Erysipelatoclostridium ramosum
+>ERR1160658.376 10317.000032795_375 length=126 number of reps 105	ERR1160658.376	KY301664.1	99.206	5.17e-56	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1842255.11526 10317.000044555_11525 length=150 number of reps 104	ERR1842255.11526	JQ940872.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1079964.2821 10317.000013105_2820 length=151 number of reps 104	ERR1079964.2821	JN612120.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2319745.31363 10317.000050475_31362 length=150 number of reps 103	ERR2319745.31363	MT509819.1	100.0	6.369999999999999e-71	Dialister invisus	218538	Firmicutes;Negativicutes;Veillonellales;Veillonellaceae;Dialister;Dialister invisus
+>ERR1842835.339 10317.000053460_338 length=150 number of reps 103	ERR1842835.339	MK274834.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.1914 10317.000028806_1913 length=150 number of reps 103	ERR1458766.1914	MH228452.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.819 10317.000028806_818 length=150 number of reps 102	ERR1458766.819	LR647866.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1458766.3609 10317.000028806_3608 length=150 number of reps 102	ERR1458766.3609	MH291839.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.4286 10317.000021280_4285 length=151 number of reps 102	ERR1080303.4286	CP050831.1	99.338	8.309999999999998e-70	Bacteroides sp. CBA7301	2715212	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1080303.232 10317.000021280_231 length=151 number of reps 102	ERR1080303.232	HQ816221.1	100.0	1.7899999999999994e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
+>ERR2696499.590 10317.000076358_589 length=151 number of reps 101	ERR2696499.590	CP053042.1	99.338	8.309999999999998e-70	Proteus cibarius	626774	Proteobacteria;Gammaproteobacteria;Enterobacterales;Morganellaceae;Proteus;Proteus cibarius
+>ERR2319745.9209 10317.000050475_9208 length=151 number of reps 101	ERR2319745.9209	KU152706.1	100.0	1.7899999999999994e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR2405131.2216 10317.000082870_2215 length=151 number of reps 100	ERR2405131.2216	HQ814424.1	98.01299999999999	1.7999999999999995e-66	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
+>ERR1845804.635 10317.000023590_634 length=150 number of reps 100	ERR1845804.635	HQ766939.1	100.0	6.369999999999999e-71	uncultured organism	155900	NaN;NaN;NaN;NaN;NaN;uncultured organism
+>ERR1842255.2111 10317.000044555_2110 length=150 number of reps 100	ERR1842255.2111	KT924959.1	100.0	6.369999999999999e-71	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
+>ERR1160658.970 10317.000032795_969 length=126 number of reps 100	ERR1160658.970	MK727100.1	100.0	1.1100000000000001e-57	uncultured bacterium	77133	NaN;NaN;NaN;NaN;NaN;uncultured bacterium
